@@ -1,0 +1,333 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"e",
+				"edited"
+			],
+			[
+				"art",
+				"articlePrompt"
+			],
+			[
+				"con",
+				"contentTwo"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"gen",
+				"generateArticlePrompt"
+			],
+			[
+				"mainc",
+				"mainCat"
+			],
+			[
+				"main",
+				"mainKey"
+			],
+			[
+				"mainC",
+				"mainCat"
+			],
+			[
+				"bo",
+				"bodyM"
+			],
+			[
+				"st",
+				"stylesheet"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"us",
+				"use"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"gene",
+				"generatePrompt"
+			],
+			[
+				"topic",
+				"topicPrompt"
+			],
+			[
+				"iframeC",
+				"iframeContent"
+			],
+			[
+				"top",
+				"topicList"
+			],
+			[
+				"the",
+				"theIframe"
+			],
+			[
+				"ifr",
+				"iframe"
+			],
+			[
+				"iframe",
+				"iframeC"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"a",
+				"aTopics"
+			],
+			[
+				"che",
+				"checking"
+			],
+			[
+				"ru",
+				"return"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"sc",
+				"src\tAttr"
+			],
+			[
+				"h",
+				"hidden\toverflow"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/AI-Inspin/signUp.html",
+		"/C/xampp/htdocs/AI-Inspin/assets/flickity.js",
+		"/C/xampp/htdocs/AI-Inspin/module.js",
+		"/C/apps/ai-inspin/package.json",
+		"/C/Laravel/vimtitrade-api/.env",
+		"/C/xampp/htdocs/AI-Inspin/GeneratedTopics.html",
+		"/C/Users/USER/Desktop/vimtitrade-api/vimtitrade-api/.env",
+		"/C/Users/USER/Desktop/Code With Mobile/template.html",
+		"/C/Users/USER/Desktop/AI-Inspin/verify.js",
+		"/C/Users/USER/Desktop/AI-Inspin/GeneratedTopics.html",
+		"/C/Users/USER/Desktop/AI-Inspin/geminiAI.html",
+		"/C/Users/USER/Desktop/CSS Functions Reference",
+		"/C/Users/USER/Documents/Ajor Logo 2.svg"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
