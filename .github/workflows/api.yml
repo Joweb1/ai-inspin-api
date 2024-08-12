@@ -18,7 +18,11 @@ jobs:
         run: composer install --no-scripts --no-dev
 
       - name: Build Laravel
-        run: php artisan build --prod
+        run: | 
+          php artisan config:cache
+          php artisan route:cache
+          php artisan view:cache
+          php artisan optimize
 
       - name: Upload production-ready build files
         uses: actions/upload-artifact@v3
