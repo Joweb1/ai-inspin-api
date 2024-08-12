@@ -55,5 +55,5 @@ jobs:
           server: ${{ secrets.AI_INSPIN_API_SERVER }}
           username: ${{ secrets.AI_INSPIN_API_USERNAME }}
           password: ${{ secrets.AI_INSPIN_API_PASSWORD }}
-          local-dir: ./build/
+          local-dir: ./public/
           protocol: 'ftp'
